@@ -7,3 +7,7 @@ github:
 provider:
   linux_aarch64: azure
   linux_ppc64le: azure
+os_version:
+  linux_64: cos7
+  linux_aarch64: ubi8
+  linux_ppc64le: ubi8
